@@ -54,16 +54,6 @@ Randomized search and grid search were used to tune the hyperparameters of the m
 Model Evaluation:
 
 Evaluated models using R-squared, Mean Squared Error (MSE), and Mean Absolute Error (MAE).
-Model Evaluation
-
-Here are the evaluation results for the models after hyperparameter tuning:
-
-Model	                        MSE	    MAE	     RMSE	    R²
-Linear Regression           	8.72M	  2353.81	 2952.26	0.86
-Decision Tree Regressor	      4.76M	  1391.92	 2181.78	0.92
-Random Forest Regressor     	3.76M	  1285.45	 1938.35	0.94
-Gradient Boosting Regressor	  4.04M	  1333.60	 2009.77	0.93
-Support Vector Regressor	    76.64M	6226.06	 8754.94	-0.27
 
 
 Best Performing Model : 
