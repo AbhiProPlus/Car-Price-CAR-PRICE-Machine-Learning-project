@@ -1,4 +1,4 @@
-# Car-Price-CAR-PRICE-Machine-Learning-project
+# CAR-PRICE-Machine-Learning-project
 Car Price Machine Learning project
 This project involves building a regression model to predict car prices based on various features such as car specifications, engine details, and other attributes. Multiple machine learning models were tested and evaluated to determine the best-performing model for predicting car prices.
 
